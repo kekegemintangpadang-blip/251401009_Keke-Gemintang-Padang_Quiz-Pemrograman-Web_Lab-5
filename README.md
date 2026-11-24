@@ -8,7 +8,7 @@ Aplikasi manajemen daftar tugas (*To-Do List*) berbasis frontend yang dikembangk
 - **Kelas:** Lab 5
 
 ## Link Website
-- **Live Demo (GitHub Pages):** [https://kekegemintangpadang-blip.github.io/251401009_Keke-Gemintang-Padang_Quiz-Pemrograman-Web-Lab-5/](https://kekegemintangpadang-blip.github.io/251401009_Keke-Gemintang-Padang_Quiz-Pemrograman-Web-Lab-5/)
+- **Live Website:** [https://251401009keke-gemintang-padangquiz.vercel.app/](https://251401009keke-gemintang-padangquiz.vercel.app/)
 
 ## Fitur Utama & Inovasi
 
