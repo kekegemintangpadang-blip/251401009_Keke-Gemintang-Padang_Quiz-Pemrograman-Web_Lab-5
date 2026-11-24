@@ -7,6 +7,9 @@ Aplikasi manajemen daftar tugas (*To-Do List*) berbasis frontend yang dikembangk
 - **NIM:** 251401009
 - **Kelas:** Lab 5
 
+## Link Website
+- **Live Demo (GitHub Pages):** [https://kekegemintangpadang-blip.github.io/251401009_Keke-Gemintang-Padang_Quiz-Pemrograman-Web-Lab-5/](https://kekegemintangpadang-blip.github.io/251401009_Keke-Gemintang-Padang_Quiz-Pemrograman-Web-Lab-5/)
+
 ## Fitur Utama & Inovasi
 
 ### 1. Manajemen Tugas (CRUD dengan React State)
@@ -68,58 +71,73 @@ todo-list-react/
 ├── package-lock.json
 ├── README.md
 └── vite.config.js
+```
 
 ## Screenshot Hasil Implementasi
 
 ### 1. Halaman Utama (Daftar Tugas)
 Menampilkan seluruh daftar tugas beserta informasi judul, status, prioritas, deadline, dan tombol aksi.
+
 ![Halaman Utama](./screenshots/01-halaman-utama.png)
 
 ### 2. Modal Tambah Todo
 Formulir penambahan tugas baru yang dilengkapi validasi input sebelum disimpan.
+
 ![Modal Tambah Todo](./screenshots/02-tambah-todo.png)
 
 ### 3. Hasil Penambahan Tugas & Notifikasi Umpan Balik
 Tugas baru langsung muncul di daftar tanpa memuat ulang halaman disertai notifikasi konfirmasi.
+
 ![Tugas Berhasil Ditambahkan](./screenshots/03-tugas-ditambahkan.png)
 
 ### 4. Halaman Detail Tugas (`/todo/:id`)
 Menampilkan informasi lengkap suatu tugas termasuk deskripsi, status, prioritas, dan deadline.
+
 ![Halaman Detail Tugas](./screenshots/04-detail-tugas.png)
 
 ### 5. Modal Update Todo
 Formulir pembaruan data tugas yang sudah terisi otomatis dengan data sebelumnya.
+
 ![Modal Update Todo](./screenshots/05-update-todo.png)
 
 ### 6. Hasil Pembaruan Tugas & Notifikasi Umpan Balik
 Perubahan data tugas langsung diperbarui pada tampilan disertai notifikasi konfirmasi.
+
 ![Setelah Update Todo](./screenshots/06-setelah-update-todo.png)
 
 ### 7. Modal Konfirmasi Hapus Tugas
 Dialog konfirmasi sebelum tugas dihapus secara permanen dari daftar.
+
 ![Modal Konfirmasi Hapus](./screenshots/07-konfirmasi-hapus.png)
 
 ### 8. Hasil Penghapusan Tugas & Notifikasi Umpan Balik
 Tugas terhapus dari daftar tanpa memuat ulang halaman disertai notifikasi penghapusan.
+
 ![Setelah Tugas Dihapus](./screenshots/08-setelah-tugas-dihapus.png)
 
 ### 9. Variasi Tema Warna — Sakura Pink
 **Halaman Utama:**
+
 ![Tema Sakura Pink Home](./screenshots/09-tema-warna-pink-home.png)
 
 **Halaman Detail:**
+
 ![Tema Sakura Pink Detail](./screenshots/09-tema-warna-pink-detail.png)
 
 ### 10. Variasi Tema Warna — Soft Lavender
 **Halaman Utama:**
+
 ![Tema Soft Lavender Home](./screenshots/10-tema-warna-purple-home.png)
 
 **Halaman Detail:**
+
 ![Tema Soft Lavender Detail](./screenshots/10-tema-warna-purple-detail.png)
 
 ### 11. Variasi Tema Warna — Baby Blue
 **Halaman Utama:**
+
 ![Tema Baby Blue Home](./screenshots/11-tema-warna-blue-home.png)
 
 **Halaman Detail:**
+
 ![Tema Baby Blue Detail](./screenshots/10-tema-warna-blue-detail.png)
