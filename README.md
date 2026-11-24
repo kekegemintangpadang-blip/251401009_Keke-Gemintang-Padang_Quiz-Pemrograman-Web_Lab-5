@@ -131,7 +131,7 @@ Tugas terhapus dari daftar tanpa memuat ulang halaman disertai notifikasi pengha
 
 **Halaman Detail:**
 
-![Tema Soft Lavender Detail](./screenshots/10-tema-warna-purple-detail.png)
+![Tema Soft Lavender Detail](./screenshots/11-tema-warna-purple-detail.png)
 
 ### 11. Variasi Tema Warna — Baby Blue
 **Halaman Utama:**
