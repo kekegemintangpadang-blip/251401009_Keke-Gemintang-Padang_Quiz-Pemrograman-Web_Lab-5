@@ -140,4 +140,4 @@ Tugas terhapus dari daftar tanpa memuat ulang halaman disertai notifikasi pengha
 
 **Halaman Detail:**
 
-![Tema Baby Blue Detail](./screenshots/10-tema-warna-blue-detail.png)
+![Tema Baby Blue Detail](./screenshots/11-tema-warna-blue-detail.png)
