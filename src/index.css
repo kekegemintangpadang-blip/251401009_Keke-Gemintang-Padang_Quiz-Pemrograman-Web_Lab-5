@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: #e6f4ff;
+    color: #1e293b;
+  }
+}
+
+.bg-sky-dot-grid {
+  background-color: #e8f5ff;
+  background-image:
+    radial-gradient(rgba(14, 165, 233, 0.18) 1.25px, transparent 1.25px),
+    linear-gradient(135deg, #d7eeff 0%, #f2f9ff 50%, #dcebff 100%);
+  background-size: 22px 22px, 100% 100%;
+}
